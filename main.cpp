@@ -25,7 +25,12 @@ int main()
     const int Size =39;
     #define PI 3.14  // khai bao hang
     #define SIZE 40
-
+    int a =10 b=3
+    float c=3
+    a/b=3;// chia số nguyên
+    a/b; 10.0/3 //chia lấy số thực
+    a%b=3.3 //chia lấy dư
+        
     return 0;
 }
 
